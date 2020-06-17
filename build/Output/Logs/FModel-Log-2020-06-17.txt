@@ -1,0 +1,586 @@
+﻿2020-06-17 10:48:45.040 - [FModel] ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+2020-06-17 10:48:45.047 - [FModel] [Version] 3.1.0.4
+2020-06-17 10:48:45.047 - [FModel] [Build] Release
+2020-06-17 10:48:45.048 - [FModel] [OS] Windows 10 Home (64-bit)
+2020-06-17 10:48:45.048 - [FModel] [Runtime] .NET Core 3.1.4
+2020-06-17 10:48:45.048 - [FModel] [Culture] en-US
+2020-06-17 10:48:46.380 - [FModel] [Discord RPC] Ready for Jackson#9999 (117850765908770825)
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [GridChildTopLeft] 2*
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [AudioPlayerDevice] 
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [ReloadAesKeys] True
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [GridChildTopRight] 2*
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [AssetsIconDesign] 0
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [GridChildBottomRight] 6*
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [UpdateSettings] False
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [DynamicAesKeys] 
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [IconWatermarkX] 0
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [UseIconWatermark] False
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [ChallengeBannerPrimaryColor] 1C2026
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [UseItemShopIcon] False
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [IconWatermarkOpacity] 255
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [IconWatermarkPath] 
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [CustomGoTos] [{"Header":"Cosmetics","DirectoryPath":"FortniteGame/Content/Athena/Items/Cosmetics/"},{"Header":"Challenges","DirectoryPath":"FortniteGame/Content/Athena/Items/ChallengeBundles/"},{"Header":"Emotes [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/Emotes/"},{"Header":"Music Packs [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/MusicPacks/"},{"Header":"Weapons","DirectoryPath":"FortniteGame/Content/Athena/Items/Weapons/"},{"Header":"Strings","DirectoryPath":"FortniteGame/Content/Localization/"}]
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [AutoOpenSounds] True
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [AutoSaveImage] False
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [UseChallengeBanner] False
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [PakPath] 
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [AutoSave] False
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [AssetsLanguage] 0
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [GridParentTop] 11*
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [IconWatermarkY] 0
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [GridChildBottomCenter] 11*
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [ChallengeBannerSecondaryColor] 2848A3
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [UseEnglish] False
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [GridParentBottom] 10*
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [IconWatermarkScale] 512
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [ChallengeBannerOpacity] 255
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [GridChildBottomLeft] 6*
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [AutoExport] False
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [GridChildTopCenter] 3*
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [ChallengeBannerWatermark] {BundleName} - {Date}
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [UseDiscordRpc] True
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [UseGameColors] False
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [OutputPath] C:\Users\jacks\Documents\Game Development\FModel\build\Output
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [AudioPlayerVolume] 0.5
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [ChallengeBannerPath] 
+2020-06-17 10:48:46.944 - [FModel] [User Settings] [StaticAesKeys] 
+2020-06-17 10:48:47.361 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 10:48:47.376 - [FModel] [LauncherInstalled.dat] Fortnite found at C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks
+2020-06-17 10:48:47.473 - [FModel] [EGL2] Fortnite not found
+2020-06-17 10:48:47.474 - [FModel] [RiotClientInstalls.json] C:\ProgramData\Riot Games\RiotClientInstalls.json
+2020-06-17 10:48:47.481 - [FModel] [RiotClientInstalls.json] Valorant found at C:\Riot Games\VALORANT\live\ShooterGame\Content\Paks
+2020-06-17 10:48:47.486 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 10:48:47.487 - [FModel] [LauncherInstalled.dat] Catnip not found
+2020-06-17 10:48:47.489 - [FModel] [LauncherInstalled.dat] File not found
+2020-06-17 10:48:48.493 - thrown in App.xaml.cs by OnDispatcherUnhandledException:
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Management.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'. The system cannot find the file specified.
+File name: 'Microsoft.Management.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at System.Reflection.RuntimeAssembly.GetExportedTypes()
+   at System.Reflection.Assembly.get_ExportedTypes()
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.GetAssemblyTypes(Assembly assembly, String name)
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.AnalyzeModuleAssemblyWithReflection(Assembly assembly, String name, PSSnapInInfo psSnapInInfo, PSModuleInfo moduleInfo, String helpFile, Dictionary`2& cmdlets, Dictionary`2& aliases, Dictionary`2& providers)
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.AnalyzePSSnapInAssembly(Assembly assembly, String name, PSSnapInInfo psSnapInInfo, PSModuleInfo moduleInfo, Dictionary`2& cmdlets, Dictionary`2& aliases, Dictionary`2& providers, String& helpFile)
+   at System.Management.Automation.Runspaces.InitialSessionState.ImportPSSnapIn(PSSnapInInfo psSnapInInfo, PSSnapInException& warning)
+   at System.Management.Automation.Runspaces.InitialSessionState.CreateDefault()
+   at System.Management.Automation.Runspaces.RunspaceFactory.CreateRunspace(PSHost host)
+   at System.Management.Automation.Runspaces.RunspaceFactory.CreateRunspace()
+   at System.Management.Automation.PowerShell.Worker.CreateRunspaceIfNeededAndDoWork(Runspace rsToUse, Boolean isSync)
+   at System.Management.Automation.PowerShell.CoreInvokeHelper[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.CoreInvoke[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke(IEnumerable input, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke()
+   at FModel.Utils.Paks.GetMinecraftDungeonsPakFilesPath() in C:\Users\jacks\Documents\Game Development\FModel\FModel\Utils\Paks.cs:line 107
+   at FModel.Windows.Launcher.FLauncher.OnLoaded(Object sender, RoutedEventArgs e) in C:\Users\jacks\Documents\Game Development\FModel\FModel\Windows\Launcher\FLauncher.xaml.cs:line 66
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   at System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   at MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   at System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   at System.Windows.Interop.HwndTarget.OnResize()
+   at System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+
+2020-06-17 10:49:40.456 - [FModel] [Endpoints] [GET] https://dl.dropbox.com/s/sxyaqo6zu1drlea/FModel.json?dl=0
+2020-06-17 10:49:41.315 - [FModel] [Startup Time] 56877ms
+2020-06-17 10:50:15.982 - [FModel] ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+2020-06-17 10:50:15.989 - [FModel] [Version] 3.1.0.4
+2020-06-17 10:50:15.989 - [FModel] [Build] Release
+2020-06-17 10:50:15.990 - [FModel] [OS] Windows 10 Home (64-bit)
+2020-06-17 10:50:15.990 - [FModel] [Runtime] .NET Core 3.1.4
+2020-06-17 10:50:15.990 - [FModel] [Culture] en-US
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [OutputPath] C:\Users\jacks\Documents\Game Development\FModel\build\Output
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [GridChildTopRight] 2*
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [AutoOpenSounds] True
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [UseEnglish] False
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [UpdateSettings] False
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [IconWatermarkOpacity] 255
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [AutoSaveImage] False
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [UseIconWatermark] False
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [AudioPlayerVolume] 0.5
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [GridParentTop] 11*
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [UseChallengeBanner] False
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [StaticAesKeys] 
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [AutoExport] False
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [GridChildBottomCenter] 11*
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [GridChildTopCenter] 3*
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [AutoSave] False
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [AudioPlayerDevice] 
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [UseDiscordRpc] True
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [IconWatermarkY] 0
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [ChallengeBannerSecondaryColor] 2848A3
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [AssetsIconDesign] 0
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [ChallengeBannerWatermark] {BundleName} - {Date}
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [GridChildTopLeft] 2*
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [GridChildBottomRight] 6*
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [ChallengeBannerPath] 
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [DynamicAesKeys] 
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [GridParentBottom] 10*
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [ChallengeBannerOpacity] 255
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [CustomGoTos] [{"Header":"Cosmetics","DirectoryPath":"FortniteGame/Content/Athena/Items/Cosmetics/"},{"Header":"Challenges","DirectoryPath":"FortniteGame/Content/Athena/Items/ChallengeBundles/"},{"Header":"Emotes [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/Emotes/"},{"Header":"Music Packs [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/MusicPacks/"},{"Header":"Weapons","DirectoryPath":"FortniteGame/Content/Athena/Items/Weapons/"},{"Header":"Strings","DirectoryPath":"FortniteGame/Content/Localization/"}]
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [IconWatermarkX] 0
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [IconWatermarkScale] 512
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [IconWatermarkPath] 
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [AssetsLanguage] 0
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [GridChildBottomLeft] 6*
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [ChallengeBannerPrimaryColor] 1C2026
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [UseGameColors] False
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [ReloadAesKeys] True
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [PakPath] 
+2020-06-17 10:50:16.711 - [FModel] [User Settings] [UseItemShopIcon] False
+2020-06-17 10:50:17.124 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 10:50:17.182 - [FModel] [LauncherInstalled.dat] Fortnite found at C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks
+2020-06-17 10:50:17.213 - [FModel] [Discord RPC] Ready for Jackson#9999 (117850765908770825)
+2020-06-17 10:50:17.285 - [FModel] [EGL2] Fortnite not found
+2020-06-17 10:50:17.287 - [FModel] [RiotClientInstalls.json] C:\ProgramData\Riot Games\RiotClientInstalls.json
+2020-06-17 10:50:17.297 - [FModel] [RiotClientInstalls.json] Valorant found at C:\Riot Games\VALORANT\live\ShooterGame\Content\Paks
+2020-06-17 10:50:17.303 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 10:50:17.303 - [FModel] [LauncherInstalled.dat] Catnip not found
+2020-06-17 10:50:17.305 - [FModel] [LauncherInstalled.dat] File not found
+2020-06-17 10:50:17.568 - thrown in App.xaml.cs by OnDispatcherUnhandledException:
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Management.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'. The system cannot find the file specified.
+File name: 'Microsoft.Management.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at System.Reflection.RuntimeAssembly.GetExportedTypes()
+   at System.Reflection.Assembly.get_ExportedTypes()
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.GetAssemblyTypes(Assembly assembly, String name)
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.AnalyzeModuleAssemblyWithReflection(Assembly assembly, String name, PSSnapInInfo psSnapInInfo, PSModuleInfo moduleInfo, String helpFile, Dictionary`2& cmdlets, Dictionary`2& aliases, Dictionary`2& providers)
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.AnalyzePSSnapInAssembly(Assembly assembly, String name, PSSnapInInfo psSnapInInfo, PSModuleInfo moduleInfo, Dictionary`2& cmdlets, Dictionary`2& aliases, Dictionary`2& providers, String& helpFile)
+   at System.Management.Automation.Runspaces.InitialSessionState.ImportPSSnapIn(PSSnapInInfo psSnapInInfo, PSSnapInException& warning)
+   at System.Management.Automation.Runspaces.InitialSessionState.CreateDefault()
+   at System.Management.Automation.Runspaces.RunspaceFactory.CreateRunspace(PSHost host)
+   at System.Management.Automation.Runspaces.RunspaceFactory.CreateRunspace()
+   at System.Management.Automation.PowerShell.Worker.CreateRunspaceIfNeededAndDoWork(Runspace rsToUse, Boolean isSync)
+   at System.Management.Automation.PowerShell.CoreInvokeHelper[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.CoreInvoke[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke(IEnumerable input, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke()
+   at FModel.Utils.Paks.GetMinecraftDungeonsPakFilesPath() in C:\Users\jacks\Documents\Game Development\FModel\FModel\Utils\Paks.cs:line 107
+   at FModel.Windows.Launcher.FLauncher.OnLoaded(Object sender, RoutedEventArgs e) in C:\Users\jacks\Documents\Game Development\FModel\FModel\Windows\Launcher\FLauncher.xaml.cs:line 66
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   at System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   at MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   at System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   at System.Windows.Interop.HwndTarget.OnResize()
+   at System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+
+2020-06-17 10:50:22.792 - [FModel] [Endpoints] [GET] https://dl.dropbox.com/s/sxyaqo6zu1drlea/FModel.json?dl=0
+2020-06-17 10:50:23.752 - [FModel] [Startup Time] 7799ms
+2020-06-17 10:51:51.876 - [FModel] ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+2020-06-17 10:51:51.882 - [FModel] [Version] 3.1.0.4
+2020-06-17 10:51:51.882 - [FModel] [Build] Release
+2020-06-17 10:51:51.883 - [FModel] [OS] Windows 10 Home (64-bit)
+2020-06-17 10:51:51.883 - [FModel] [Runtime] .NET Core 3.1.4
+2020-06-17 10:51:51.883 - [FModel] [Culture] en-US
+2020-06-17 10:51:52.656 - [FModel] [User Settings] [UpdateSettings] False
+2020-06-17 10:51:52.656 - [FModel] [User Settings] [AutoSave] False
+2020-06-17 10:51:52.656 - [FModel] [User Settings] [GridParentBottom] 10*
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [IconWatermarkScale] 512
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [IconWatermarkX] 0
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [UseChallengeBanner] False
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [AudioPlayerVolume] 0.5
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [IconWatermarkPath] 
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [AssetsLanguage] 0
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [GridChildBottomCenter] 11*
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [GridChildBottomRight] 6*
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [DynamicAesKeys] 
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [UseDiscordRpc] True
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [UseGameColors] False
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [ReloadAesKeys] True
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [GridChildBottomLeft] 6*
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [AssetsIconDesign] 0
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [ChallengeBannerWatermark] {BundleName} - {Date}
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [AutoOpenSounds] True
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [GridChildTopRight] 2*
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [AutoSaveImage] False
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [GridParentTop] 11*
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [ChallengeBannerPrimaryColor] 1C2026
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [PakPath] 
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [IconWatermarkY] 0
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [IconWatermarkOpacity] 255
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [GridChildTopLeft] 2*
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [UseEnglish] False
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [OutputPath] C:\Users\jacks\Documents\Game Development\FModel\build\Output
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [AutoExport] False
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [AudioPlayerDevice] 
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [StaticAesKeys] 
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [ChallengeBannerOpacity] 255
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [UseItemShopIcon] False
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [ChallengeBannerPath] 
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [ChallengeBannerSecondaryColor] 2848A3
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [CustomGoTos] [{"Header":"Cosmetics","DirectoryPath":"FortniteGame/Content/Athena/Items/Cosmetics/"},{"Header":"Challenges","DirectoryPath":"FortniteGame/Content/Athena/Items/ChallengeBundles/"},{"Header":"Emotes [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/Emotes/"},{"Header":"Music Packs [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/MusicPacks/"},{"Header":"Weapons","DirectoryPath":"FortniteGame/Content/Athena/Items/Weapons/"},{"Header":"Strings","DirectoryPath":"FortniteGame/Content/Localization/"}]
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [GridChildTopCenter] 3*
+2020-06-17 10:51:52.657 - [FModel] [User Settings] [UseIconWatermark] False
+2020-06-17 10:51:53.112 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 10:51:53.131 - [FModel] [LauncherInstalled.dat] Fortnite found at C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks
+2020-06-17 10:51:53.159 - [FModel] [Discord RPC] Ready for Jackson#9999 (117850765908770825)
+2020-06-17 10:51:53.263 - [FModel] [EGL2] Fortnite not found
+2020-06-17 10:51:53.265 - [FModel] [RiotClientInstalls.json] C:\ProgramData\Riot Games\RiotClientInstalls.json
+2020-06-17 10:51:53.275 - [FModel] [RiotClientInstalls.json] Valorant found at C:\Riot Games\VALORANT\live\ShooterGame\Content\Paks
+2020-06-17 10:51:53.279 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 10:51:53.279 - [FModel] [LauncherInstalled.dat] Catnip not found
+2020-06-17 10:51:53.281 - [FModel] [LauncherInstalled.dat] File not found
+2020-06-17 10:51:53.553 - thrown in App.xaml.cs by OnDispatcherUnhandledException:
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Management.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'. The system cannot find the file specified.
+File name: 'Microsoft.Management.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at System.Reflection.RuntimeAssembly.GetExportedTypes()
+   at System.Reflection.Assembly.get_ExportedTypes()
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.GetAssemblyTypes(Assembly assembly, String name)
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.AnalyzeModuleAssemblyWithReflection(Assembly assembly, String name, PSSnapInInfo psSnapInInfo, PSModuleInfo moduleInfo, String helpFile, Dictionary`2& cmdlets, Dictionary`2& aliases, Dictionary`2& providers)
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.AnalyzePSSnapInAssembly(Assembly assembly, String name, PSSnapInInfo psSnapInInfo, PSModuleInfo moduleInfo, Dictionary`2& cmdlets, Dictionary`2& aliases, Dictionary`2& providers, String& helpFile)
+   at System.Management.Automation.Runspaces.InitialSessionState.ImportPSSnapIn(PSSnapInInfo psSnapInInfo, PSSnapInException& warning)
+   at System.Management.Automation.Runspaces.InitialSessionState.CreateDefault()
+   at System.Management.Automation.Runspaces.RunspaceFactory.CreateRunspace(PSHost host)
+   at System.Management.Automation.Runspaces.RunspaceFactory.CreateRunspace()
+   at System.Management.Automation.PowerShell.Worker.CreateRunspaceIfNeededAndDoWork(Runspace rsToUse, Boolean isSync)
+   at System.Management.Automation.PowerShell.CoreInvokeHelper[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.CoreInvoke[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke(IEnumerable input, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke()
+   at FModel.Utils.Paks.GetMinecraftDungeonsPakFilesPath() in C:\Users\jacks\Documents\Game Development\FModel\FModel\Utils\Paks.cs:line 107
+   at FModel.Windows.Launcher.FLauncher.OnLoaded(Object sender, RoutedEventArgs e) in C:\Users\jacks\Documents\Game Development\FModel\FModel\Windows\Launcher\FLauncher.xaml.cs:line 66
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   at System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   at MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   at System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   at System.Windows.Interop.HwndTarget.OnResize()
+   at System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+
+2020-06-17 10:52:00.400 - [FModel] [Endpoints] [GET] https://dl.dropbox.com/s/sxyaqo6zu1drlea/FModel.json?dl=0
+2020-06-17 10:52:01.004 - [FModel] [Startup Time] 9157ms
+2020-06-17 10:53:39.864 - [FModel] ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+2020-06-17 10:53:39.870 - [FModel] [Version] 3.1.0.4
+2020-06-17 10:53:39.871 - [FModel] [Build] Release
+2020-06-17 10:53:39.872 - [FModel] [OS] Windows 10 Home (64-bit)
+2020-06-17 10:53:39.872 - [FModel] [Runtime] .NET Core 3.1.4
+2020-06-17 10:53:39.872 - [FModel] [Culture] en-US
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [GridChildTopRight] 2*
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [StaticAesKeys] 
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [PakPath] 
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [GridChildTopCenter] 3*
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [GridChildTopLeft] 2*
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [IconWatermarkOpacity] 255
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [ReloadAesKeys] True
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [CustomGoTos] [{"Header":"Cosmetics","DirectoryPath":"FortniteGame/Content/Athena/Items/Cosmetics/"},{"Header":"Challenges","DirectoryPath":"FortniteGame/Content/Athena/Items/ChallengeBundles/"},{"Header":"Emotes [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/Emotes/"},{"Header":"Music Packs [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/MusicPacks/"},{"Header":"Weapons","DirectoryPath":"FortniteGame/Content/Athena/Items/Weapons/"},{"Header":"Strings","DirectoryPath":"FortniteGame/Content/Localization/"}]
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [GridParentTop] 11*
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [UseItemShopIcon] False
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [ChallengeBannerOpacity] 255
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [AssetsLanguage] 0
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [IconWatermarkY] 0
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [IconWatermarkPath] 
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [GridParentBottom] 10*
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [AudioPlayerDevice] 
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [UseDiscordRpc] True
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [AutoExport] False
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [AssetsIconDesign] 0
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [GridChildBottomRight] 6*
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [AutoSave] False
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [UseChallengeBanner] False
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [GridChildBottomCenter] 11*
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [UpdateSettings] False
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [OutputPath] C:\Users\jacks\Documents\Game Development\FModel\build\Output
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [ChallengeBannerPath] 
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [UseGameColors] False
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [GridChildBottomLeft] 6*
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [IconWatermarkScale] 512
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [AudioPlayerVolume] 0.5
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [UseEnglish] False
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [ChallengeBannerSecondaryColor] 2848A3
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [IconWatermarkX] 0
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [UseIconWatermark] False
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [AutoOpenSounds] True
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [ChallengeBannerWatermark] {BundleName} - {Date}
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [AutoSaveImage] False
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [ChallengeBannerPrimaryColor] 1C2026
+2020-06-17 10:53:40.587 - [FModel] [User Settings] [DynamicAesKeys] 
+2020-06-17 10:53:40.981 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 10:53:41.030 - [FModel] [LauncherInstalled.dat] Fortnite found at C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks
+2020-06-17 10:53:41.112 - [FModel] [Discord RPC] Ready for Jackson#9999 (117850765908770825)
+2020-06-17 10:53:41.135 - [FModel] [EGL2] Fortnite not found
+2020-06-17 10:53:41.137 - [FModel] [RiotClientInstalls.json] C:\ProgramData\Riot Games\RiotClientInstalls.json
+2020-06-17 10:53:41.147 - [FModel] [RiotClientInstalls.json] Valorant found at C:\Riot Games\VALORANT\live\ShooterGame\Content\Paks
+2020-06-17 10:53:41.151 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 10:53:41.152 - [FModel] [LauncherInstalled.dat] Catnip not found
+2020-06-17 10:53:41.154 - [FModel] [LauncherInstalled.dat] File not found
+2020-06-17 10:53:41.417 - thrown in App.xaml.cs by OnDispatcherUnhandledException:
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Management.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'. The system cannot find the file specified.
+File name: 'Microsoft.Management.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at System.Reflection.RuntimeAssembly.GetExportedTypes()
+   at System.Reflection.Assembly.get_ExportedTypes()
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.GetAssemblyTypes(Assembly assembly, String name)
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.AnalyzeModuleAssemblyWithReflection(Assembly assembly, String name, PSSnapInInfo psSnapInInfo, PSModuleInfo moduleInfo, String helpFile, Dictionary`2& cmdlets, Dictionary`2& aliases, Dictionary`2& providers)
+   at System.Management.Automation.Runspaces.PSSnapInHelpers.AnalyzePSSnapInAssembly(Assembly assembly, String name, PSSnapInInfo psSnapInInfo, PSModuleInfo moduleInfo, Dictionary`2& cmdlets, Dictionary`2& aliases, Dictionary`2& providers, String& helpFile)
+   at System.Management.Automation.Runspaces.InitialSessionState.ImportPSSnapIn(PSSnapInInfo psSnapInInfo, PSSnapInException& warning)
+   at System.Management.Automation.Runspaces.InitialSessionState.CreateDefault()
+   at System.Management.Automation.Runspaces.RunspaceFactory.CreateRunspace(PSHost host)
+   at System.Management.Automation.Runspaces.RunspaceFactory.CreateRunspace()
+   at System.Management.Automation.PowerShell.Worker.CreateRunspaceIfNeededAndDoWork(Runspace rsToUse, Boolean isSync)
+   at System.Management.Automation.PowerShell.CoreInvokeHelper[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.CoreInvoke[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke(IEnumerable input, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke()
+   at FModel.Utils.Paks.GetMinecraftDungeonsPakFilesPath() in C:\Users\jacks\Documents\Game Development\FModel\FModel\Utils\Paks.cs:line 107
+   at FModel.Windows.Launcher.FLauncher.OnLoaded(Object sender, RoutedEventArgs e) in C:\Users\jacks\Documents\Game Development\FModel\FModel\Windows\Launcher\FLauncher.xaml.cs:line 66
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   at System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   at MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   at System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   at System.Windows.Interop.HwndTarget.OnResize()
+   at System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+
+2020-06-17 10:53:46.047 - [FModel] [Endpoints] [GET] https://dl.dropbox.com/s/sxyaqo6zu1drlea/FModel.json?dl=0
+2020-06-17 10:53:46.806 - [FModel] [Startup Time] 6972ms
+2020-06-17 11:20:04.749 - [FModel] ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+2020-06-17 11:20:04.756 - [FModel] [Version] 3.1.0.4
+2020-06-17 11:20:04.756 - [FModel] [Build] Release
+2020-06-17 11:20:04.757 - [FModel] [OS] Windows 10 Home (64-bit)
+2020-06-17 11:20:04.757 - [FModel] [Runtime] .NET Core 3.1.4
+2020-06-17 11:20:04.757 - [FModel] [Culture] en-US
+2020-06-17 11:20:06.742 - [FModel] [Discord RPC] Ready for Jackson#9999 (117850765908770825)
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [StaticAesKeys] 
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [OutputPath] C:\Users\jacks\Documents\Game Development\FModel\build\Output
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [GridParentTop] 11*
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [GridChildBottomCenter] 11*
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [IconWatermarkX] 0
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [ChallengeBannerPrimaryColor] 1C2026
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [AutoSaveImage] False
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [AssetsLanguage] 0
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [IconWatermarkOpacity] 255
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [AssetsIconDesign] 0
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [AutoExport] False
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [AutoOpenSounds] True
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [GridChildTopCenter] 3*
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [ChallengeBannerSecondaryColor] 2848A3
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [ChallengeBannerPath] 
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [CustomGoTos] [{"Header":"Cosmetics","DirectoryPath":"FortniteGame/Content/Athena/Items/Cosmetics/"},{"Header":"Challenges","DirectoryPath":"FortniteGame/Content/Athena/Items/ChallengeBundles/"},{"Header":"Emotes [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/Emotes/"},{"Header":"Music Packs [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/MusicPacks/"},{"Header":"Weapons","DirectoryPath":"FortniteGame/Content/Athena/Items/Weapons/"},{"Header":"Strings","DirectoryPath":"FortniteGame/Content/Localization/"}]
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [UseIconWatermark] False
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [UpdateSettings] False
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [AudioPlayerDevice] 
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [IconWatermarkPath] 
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [ChallengeBannerWatermark] {BundleName} - {Date}
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [GridChildTopLeft] 2*
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [UseDiscordRpc] True
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [UseEnglish] False
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [UseChallengeBanner] False
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [PakPath] 
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [GridChildTopRight] 2*
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [GridChildBottomRight] 6*
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [ReloadAesKeys] True
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [DynamicAesKeys] 
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [UseGameColors] False
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [GridParentBottom] 10*
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [AutoSave] False
+2020-06-17 11:20:11.223 - [FModel] [User Settings] [GridChildBottomLeft] 6*
+2020-06-17 11:20:11.230 - [FModel] [User Settings] [IconWatermarkScale] 512
+2020-06-17 11:20:11.230 - [FModel] [User Settings] [IconWatermarkY] 0
+2020-06-17 11:20:11.230 - [FModel] [User Settings] [ChallengeBannerOpacity] 255
+2020-06-17 11:20:11.230 - [FModel] [User Settings] [AudioPlayerVolume] 0.5
+2020-06-17 11:20:11.230 - [FModel] [User Settings] [UseItemShopIcon] False
+2020-06-17 11:20:12.087 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 11:20:12.130 - [FModel] [LauncherInstalled.dat] Fortnite found at C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks
+2020-06-17 11:20:12.586 - [FModel] [EGL2] Fortnite not found
+2020-06-17 11:20:12.588 - [FModel] [RiotClientInstalls.json] C:\ProgramData\Riot Games\RiotClientInstalls.json
+2020-06-17 11:20:12.590 - [FModel] [RiotClientInstalls.json] Valorant found at C:\Riot Games\VALORANT\live\ShooterGame\Content\Paks
+2020-06-17 11:20:12.622 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 11:20:12.622 - [FModel] [LauncherInstalled.dat] Catnip not found
+2020-06-17 11:20:12.624 - [FModel] [LauncherInstalled.dat] File not found
+2020-06-17 11:20:21.848 - thrown in App.xaml.cs by OnDispatcherUnhandledException:
+System.Management.Automation.CommandNotFoundException: The term 'Get-AppxPackage Microsoft.Lovika.mod' is not recognized as the name of a cmdlet, function, script file, or operable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+   at System.Management.Automation.Runspaces.PipelineBase.Invoke(IEnumerable input)
+   at System.Management.Automation.Runspaces.Pipeline.Invoke()
+   at System.Management.Automation.PowerShell.Worker.ConstructPipelineAndDoWork(Runspace rs, Boolean performSyncInvoke)
+   at System.Management.Automation.PowerShell.Worker.CreateRunspaceIfNeededAndDoWork(Runspace rsToUse, Boolean isSync)
+   at System.Management.Automation.PowerShell.CoreInvokeHelper[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.CoreInvoke[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke(IEnumerable input, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke()
+   at FModel.Utils.Paks.GetMinecraftDungeonsPakFilesPath() in C:\Users\jacks\Documents\Game Development\FModel\FModel\Utils\Paks.cs:line 107
+   at FModel.Windows.Launcher.FLauncher.OnLoaded(Object sender, RoutedEventArgs e) in C:\Users\jacks\Documents\Game Development\FModel\FModel\Windows\Launcher\FLauncher.xaml.cs:line 66
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   at System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   at MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   at System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   at System.Windows.Interop.HwndTarget.OnResize()
+   at System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2020-06-17 11:21:23.082 - [FModel] [Endpoints] [GET] https://dl.dropbox.com/s/sxyaqo6zu1drlea/FModel.json?dl=0
+2020-06-17 11:21:24.608 - [FModel] [Startup Time] 80903ms
+2020-06-17 11:32:26.492 - [FModel] ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+2020-06-17 11:32:26.499 - [FModel] [Version] 3.1.0.4
+2020-06-17 11:32:26.499 - [FModel] [Build] Release
+2020-06-17 11:32:26.500 - [FModel] [OS] Windows 10 Home (64-bit)
+2020-06-17 11:32:26.500 - [FModel] [Runtime] .NET Core 3.1.4
+2020-06-17 11:32:26.500 - [FModel] [Culture] en-US
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [UseItemShopIcon] False
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [IconWatermarkPath] 
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [AutoExport] False
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [GridChildTopCenter] 3*
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [DynamicAesKeys] 
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [AutoOpenSounds] True
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [ChallengeBannerWatermark] {BundleName} - {Date}
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [GridChildTopLeft] 2*
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [UpdateSettings] False
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [AssetsLanguage] 0
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [CustomGoTos] [{"Header":"Cosmetics","DirectoryPath":"FortniteGame/Content/Athena/Items/Cosmetics/"},{"Header":"Challenges","DirectoryPath":"FortniteGame/Content/Athena/Items/ChallengeBundles/"},{"Header":"Emotes [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/Emotes/"},{"Header":"Music Packs [Audio]","DirectoryPath":"FortniteGame/Content/Athena/Sounds/MusicPacks/"},{"Header":"Weapons","DirectoryPath":"FortniteGame/Content/Athena/Items/Weapons/"},{"Header":"Strings","DirectoryPath":"FortniteGame/Content/Localization/"}]
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [GridChildTopRight] 2*
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [OutputPath] C:\Users\jacks\Documents\Game Development\FModel\build\Output
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [AutoSave] False
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [ChallengeBannerSecondaryColor] 2848A3
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [StaticAesKeys] 
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [UseDiscordRpc] True
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [ChallengeBannerPrimaryColor] 1C2026
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [ChallengeBannerOpacity] 255
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [AssetsIconDesign] 0
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [ReloadAesKeys] True
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [UseGameColors] False
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [IconWatermarkOpacity] 255
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [IconWatermarkX] 0
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [IconWatermarkY] 0
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [AudioPlayerVolume] 0.5
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [PakPath] 
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [UseEnglish] False
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [GridChildBottomCenter] 11*
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [UseChallengeBanner] False
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [GridChildBottomRight] 6*
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [GridParentTop] 11*
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [GridParentBottom] 10*
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [UseIconWatermark] False
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [AutoSaveImage] False
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [IconWatermarkScale] 512
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [AudioPlayerDevice] 
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [ChallengeBannerPath] 
+2020-06-17 11:32:27.241 - [FModel] [User Settings] [GridChildBottomLeft] 6*
+2020-06-17 11:32:27.639 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 11:32:27.691 - [FModel] [LauncherInstalled.dat] Fortnite found at C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks
+2020-06-17 11:32:27.722 - [FModel] [Discord RPC] Ready for Jackson#9999 (117850765908770825)
+2020-06-17 11:32:27.798 - [FModel] [EGL2] Fortnite not found
+2020-06-17 11:32:27.799 - [FModel] [RiotClientInstalls.json] C:\ProgramData\Riot Games\RiotClientInstalls.json
+2020-06-17 11:32:27.809 - [FModel] [RiotClientInstalls.json] Valorant found at C:\Riot Games\VALORANT\live\ShooterGame\Content\Paks
+2020-06-17 11:32:27.814 - [FModel] [LauncherInstalled.dat] C:\ProgramData\Epic\UnrealEngineLauncher\LauncherInstalled.dat
+2020-06-17 11:32:27.814 - [FModel] [LauncherInstalled.dat] Catnip not found
+2020-06-17 11:32:27.819 - [FModel] [LauncherInstalled.dat] File not found
+2020-06-17 11:32:29.290 - thrown in App.xaml.cs by OnDispatcherUnhandledException:
+System.Management.Automation.CommandNotFoundException: The 'Get-AppxPackage' command was found in the module 'Appx', but the module could not be loaded. For more information, run 'Import-Module Appx'.
+ ---> System.Management.Automation.CmdletInvocationException: File C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Appx\Appx.psm1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at https://go.microsoft.com/fwlink/?LinkID=135170.
+ ---> System.Management.Automation.PSSecurityException: File C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Appx\Appx.psm1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at https://go.microsoft.com/fwlink/?LinkID=135170.
+ ---> System.UnauthorizedAccessException: File C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Appx\Appx.psm1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at https://go.microsoft.com/fwlink/?LinkID=135170.
+   --- End of inner exception stack trace ---
+   at System.Management.Automation.AuthorizationManager.ShouldRunInternal(CommandInfo commandInfo, CommandOrigin origin, PSHost host)
+   at Microsoft.PowerShell.Commands.ModuleCmdletBase.GetScriptInfoForFile(String fileName, String& scriptName, Boolean checkExecutionPolicy)
+   at Microsoft.PowerShell.Commands.ModuleCmdletBase.LoadModule(PSModuleInfo parentModule, String fileName, String moduleBase, String prefix, SessionState ss, Object privateData, ImportModuleOptions& options, ManifestProcessingFlags manifestProcessingFlags, Boolean& found, Boolean& moduleFileFound)
+   at Microsoft.PowerShell.Commands.ModuleCmdletBase.LoadModuleNamedInManifest(PSModuleInfo parentModule, ModuleSpecification moduleSpecification, String moduleBase, Boolean searchModulePath, String prefix, SessionState ss, ImportModuleOptions options, ManifestProcessingFlags manifestProcessingFlags, Boolean loadTypesFiles, Boolean loadFormatFiles, Object privateData, Boolean& found, String shortModuleName, Nullable`1 manifestLanguageMode)
+   at Microsoft.PowerShell.Commands.ModuleCmdletBase.LoadModuleManifest(String moduleManifestPath, ExternalScriptInfo manifestScriptInfo, Hashtable data, Hashtable localizedData, ManifestProcessingFlags manifestProcessingFlags, Version minimumVersion, Version maximumVersion, Version requiredVersion, Nullable`1 requiredModuleGuid, ImportModuleOptions& options, Boolean& containedErrors)
+   at Microsoft.PowerShell.Commands.ModuleCmdletBase.LoadModuleManifest(ExternalScriptInfo scriptInfo, ManifestProcessingFlags manifestProcessingFlags, Version minimumVersion, Version maximumVersion, Version requiredVersion, Nullable`1 requiredModuleGuid, ImportModuleOptions& options)
+   at Microsoft.PowerShell.Commands.ModuleCmdletBase.LoadModule(PSModuleInfo parentModule, String fileName, String moduleBase, String prefix, SessionState ss, Object privateData, ImportModuleOptions& options, ManifestProcessingFlags manifestProcessingFlags, Boolean& found, Boolean& moduleFileFound)
+   at Microsoft.PowerShell.Commands.ModuleCmdletBase.LoadModule(String fileName, String moduleBase, String prefix, SessionState ss, ImportModuleOptions& options, ManifestProcessingFlags manifestProcessingFlags, Boolean& found)
+   at Microsoft.PowerShell.Commands.ImportModuleCommand.ImportModule_LocallyViaName(ImportModuleOptions importModuleOptions, String name)
+   at Microsoft.PowerShell.Commands.ImportModuleCommand.ImportModule_LocallyViaName_WithTelemetry(ImportModuleOptions importModuleOptions, String name)
+   at Microsoft.PowerShell.Commands.ImportModuleCommand.ProcessRecord()
+   at System.Management.Automation.Cmdlet.DoProcessRecord()
+   at System.Management.Automation.CommandProcessor.ProcessRecord()
+   --- End of inner exception stack trace ---
+   at System.Management.Automation.Runspaces.PipelineBase.Invoke(IEnumerable input)
+   at System.Management.Automation.Runspaces.Pipeline.Invoke()
+   at System.Management.Automation.PowerShell.Worker.ConstructPipelineAndDoWork(Runspace rs, Boolean performSyncInvoke)
+   at System.Management.Automation.PowerShell.CoreInvokeHelper[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.CoreInvoke[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke[T](IEnumerable input, IList`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke[T]()
+   at System.Management.Automation.CommandDiscovery.AutoloadSpecifiedModule(String moduleName, ExecutionContext context, SessionStateEntryVisibility visibility, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Management.Automation.Runspaces.PipelineBase.Invoke(IEnumerable input)
+   at System.Management.Automation.Runspaces.Pipeline.Invoke()
+   at System.Management.Automation.PowerShell.Worker.ConstructPipelineAndDoWork(Runspace rs, Boolean performSyncInvoke)
+   at System.Management.Automation.PowerShell.Worker.CreateRunspaceIfNeededAndDoWork(Runspace rsToUse, Boolean isSync)
+   at System.Management.Automation.PowerShell.CoreInvokeHelper[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.CoreInvoke[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke(IEnumerable input, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke()
+   at FModel.Utils.Paks.GetMinecraftDungeonsPakFilesPath() in C:\Users\jacks\Documents\Game Development\FModel\FModel\Utils\Paks.cs:line 107
+   at FModel.Windows.Launcher.FLauncher.OnLoaded(Object sender, RoutedEventArgs e) in C:\Users\jacks\Documents\Game Development\FModel\FModel\Windows\Launcher\FLauncher.xaml.cs:line 66
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   at System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   at MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   at System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   at System.Windows.Interop.HwndTarget.OnResize()
+   at System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2020-06-17 11:35:07.847 - [FModel] [Endpoints] [GET] https://dl.dropbox.com/s/sxyaqo6zu1drlea/FModel.json?dl=0
+2020-06-17 11:35:08.779 - [FModel] [Startup Time] 162330ms

@@ -62,6 +62,14 @@ namespace FModel.Windows.Launcher
                 Globals.gNotifier.ShowCustomMessage("Borderlands 3", Properties.Resources.PathAutoDetected, "/FModel;component/Resources/borderlands3.ico");
                 ComboBoxVm.gamesCbViewModel.Add(new ComboBoxViewModel { Id = i++, Content = "Borderlands 3", Property = borderlands3FilesPath });
             }
+            
+            string minecraftdungeonsFilePath = Paks.GetMinecraftDungeonsPakFilesPath();
+            if (!string.IsNullOrEmpty(minecraftdungeonsFilePath))
+            {
+                DebugHelper.WriteLine("{0} {1} {2}", "[FModel]", "[launcher_settings.json]", $"Minecraft Dungeons found at {minecraftdungeonsFilePath}");
+                Globals.gNotifier.ShowCustomMessage("Minecraft Dungeons", Properties.Resources.PathAutoDetected, "/FModel;component/Resources/minecraftdungeons.ico");
+                ComboBoxVm.gamesCbViewModel.Add(new ComboBoxViewModel { Id = i++, Content = "Minecraft Dungeons", Property = minecraftdungeonsFilePath });
+            }
 
             Games_CbBox.SelectedItem = ComboBoxVm.gamesCbViewModel.Where(x => x.Property.ToString() == Properties.Settings.Default.PakPath).FirstOrDefault();
         }

@@ -42,6 +42,7 @@ namespace FModel.Utils
                 EGame.Valorant => "ShooterGame",
                 EGame.DeadByDaylight => "DeadByDaylight",
                 EGame.Borderlands3 => "OakGame",
+                EGame.MinecraftDungeons => "Dungeons",
                 _ => string.Empty,
             };
 

@@ -12,11 +12,12 @@
     <FileVersion>3.1.0.4</FileVersion>
     <PackageIcon>FModel.ico</PackageIcon>
     <PackageIconUrl />
-    <PackageProjectUrl>https://github.com/iAmAsval/FModel</PackageProjectUrl>
-    <Description></Description>
+    <PackageProjectUrl>https://github.com/dungeonsworkshop/FModel</PackageProjectUrl>
+    <Description>Modified version of FModel to support Minecraft Dungeons</Description>
     <Version>3.1.0</Version>
     <Platforms>x64</Platforms>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <RuntimeIdentifier>win10-x64</RuntimeIdentifier>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -78,6 +79,7 @@
     <None Remove="Resources\key.png" />
     <None Remove="Resources\lock-open-variant.ico" />
     <None Remove="Resources\magnify.png" />
+    <None Remove="Resources\minecraftdungeons.ico" />
     <None Remove="Resources\open-in-new.png" />
     <None Remove="Resources\pause.png" />
     <None Remove="Resources\paypal.png" />
@@ -127,6 +129,9 @@
     <PackageReference Include="DotNetZip" Version="1.13.8" />
     <PackageReference Include="Extended.Wpf.Toolkit" Version="3.8.1" />
     <PackageReference Include="K4os.Compression.LZ4.Streams" Version="1.1.11" />
+<!--    <PackageReference Include="Microsoft.PowerShell.Commands.Diagnostics" Version="7.0.2" />-->
+<!--    <PackageReference Include="Microsoft.PowerShell.SDK" Version="7.0.2" />-->
+<!--    <PackageReference Include="Microsoft.WSMan.Management" Version="7.0.2" />-->
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="NVorbis" Version="0.10.1" />
     <PackageReference Include="Ookii.Dialogs.Wpf" Version="1.1.0" />
@@ -181,6 +186,7 @@
     <Resource Include="Resources\key.png" />
     <Resource Include="Resources\lock-open-variant.ico" />
     <Resource Include="Resources\magnify.png" />
+    <Resource Include="Resources\minecraftdungeons.ico" />
     <Resource Include="Resources\open-in-new.png" />
     <Resource Include="Resources\pause.png" />
     <Resource Include="Resources\paypal.png" />
