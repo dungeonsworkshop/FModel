@@ -78,6 +78,21 @@ namespace PakReader.Pak
             }
             return default;
         }
+        public T GetIndexedExport<T>(int index) where T : IUExport
+        {
+            var exports = Exports;
+            int foundCount = 0;
+            for (int i = 0; i < exports.Length; i++)
+            {
+                if (exports[i] is T)
+                {
+                    if (foundCount == index)
+                        return (T)exports[i];
+                    foundCount++;
+                }
+            }
+            return default;
+        }
 
         public bool HasExport() => exports != null;
 
